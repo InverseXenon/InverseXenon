@@ -40,11 +40,11 @@ I'm a passionate **Software Developer** and **Aspiring Data Scientist** with a k
 
 ## 🎯 What I'm Currently Working On
 - **Tikat** 🎟️ - A real-time ticket booking app with an elegant UI
-- **PEGASUS Research Paper Presentation**
+- **Astitva - A Women Centric Website**
 - **Image-to-Video ML Project** using Hugging Face APIs
 
 ## 🎯 My Goals for 2025
-- Master **Java DSA** and secure an internship
+- Master **Java DSA** and secure a good placement
 - Gain expertise in **MERN Stack & DevOps**
 - Work on **Data Analytics & Data Science** projects
 - Improve my **coding speed & problem-solving skills**
