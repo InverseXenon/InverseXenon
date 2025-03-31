@@ -59,13 +59,11 @@ I'm a passionate **Software Developer** and **Aspiring Data Scientist** with a k
 ## 🌟 Fun Facts About Me
 - I was the **PR Head of VESIT eSports** 🎮
 - Interested in **drama & scriptwriting**, worked on a **play based on the Godhra train incident**
-- Working on my **fitness journey** 🏋️ aiming to reach 72kg
-- Big fan of **luxurious UI designs** ✨
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/PiyushPatil](#)
 - **LinkedIn:** [linkedin.com/in/PiyushPatil](#)
-- **Email:** piyushpatil@example.com
+- **Email:** piyushpatil1741@gmail.com
 
 ---
 
