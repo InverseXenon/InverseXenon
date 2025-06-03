@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Piyush Patil
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piyush+Patil!;" />
+</h1>
 I'm a third-year B.Tech student in **AI & Data Science** at VESIT, Mumbai (CGPA: 8.61), passionate about **web development**, **machine learning**, and **IoT**. I love building innovative solutions that blend technology with real-world impact. Currently exploring **React.js**, **AI-driven applications**, and **cloud technologies**.
 
 
