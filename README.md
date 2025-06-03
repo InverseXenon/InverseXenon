@@ -1,67 +1,88 @@
-# Hi there! 👋 I'm Piyush Patil
+# 👋 Hi, I'm Piyush Patil
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+I'm a third-year B.Tech student in **AI & Data Science** at VESIT, Mumbai (CGPA: 8.61), passionate about **web development**, **machine learning**, and **IoT**. I love building innovative solutions that blend technology with real-world impact. Currently exploring **React.js**, **AI-driven applications**, and **cloud technologies**.
 
-## 🚀 About Me
-
-I'm a passionate **Software Developer** and **Aspiring Data Scientist** with a keen interest in **Web Development, Machine Learning, and DevOps**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** and working towards mastering **Java + DSA, MERN stack, and Data Science** to secure a high-paying job in tech. 
-
-## 🛠️ Tech Stack & Skills
-
-### 📌 Programming Languages:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) *(Currently mastering DSA in Java)*
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) *(Used for Data Analysis & ML)*
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) *(Basic knowledge from college coursework)*
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) *(Learning for Data Science & Web Dev)*
-
-### 🏗️ Web Development:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) *(Database for MERN stack)*
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) *(Frontend framework for Tikat project)*
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📊 Data Science & Analytics:
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) *(Data Analysis & Visualization)*
-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-3182bd?style=for-the-badge&logo=seaborn&logoColor=white)
-- ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) *(For scientific computing)*
-- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=white) *(Using APIs for ML projects)*
-
-### ⚙️ DevOps & Tools:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🎯 What I'm Currently Working On
-- **Tikat** 🎟️ - A real-time ticket booking app with an elegant UI
-- **Astitva - A Women Centric Website**
-- **Image-to-Video ML Project** using Hugging Face APIs
-
-## 🎯 My Goals for 2025
-- Master **Java DSA** and secure a good placement
-- Gain expertise in **MERN Stack & DevOps**
-- Work on **Data Analytics & Data Science** projects
-- Improve my **coding speed & problem-solving skills**
-- Build a **strong GitHub portfolio** with real-world projects
-
-## 📚 Learning Roadmap
-- **DSA:** Following Kunal Kushwaha’s Java DSA series
-- **Web Dev:** Hands-on projects & full-stack applications
-- **Data Science:** Python, SQL, ML, and visualization
-
-## 🌟 Fun Facts About Me
-- I was the **PR Head of VESIT eSports** 🎮
-- Interested in **drama & scriptwriting**, worked on a **play based on the Godhra train incident**
-
-## 📫 Connect With Me
-- **GitHub:** [github.com/PiyushPatil](#)
-- **LinkedIn:** [linkedin.com/in/PiyushPatil](#)
-- **Email:** piyushpatil1741@gmail.com
+🌟 **Fun Fact**: I led a team to develop an AI-powered ERP system in just 36 hours at Hack-AI-Thon 2025, securing a top 5 spot among 50 teams!
 
 ---
 
-Feel free to check out my projects and let's collaborate on something cool! 🚀
+## 🛠️ Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,flask,html,css,mongodb,firebase,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=c,nodejs,postman" />
+</p>
+
+- **Languages**: Python, JavaScript, Java, C, HTML5/CSS3
+- **Frameworks & Libraries**: React.js, Flask, Quill, OpenMap
+- **Databases & Tools**: MongoDB, Firebase, Clerk, Git, GitHub
+- **Domains**: Machine Learning (CNN, RAG), IoT, REST APIs, Cloud (AWS, Google Cloud)
+
+---
+
+## 🚀 Featured Projects
+
+### [Research Collaboration Hub](https://github.com/InverseXenon/collaborato)
+- **Tech Stack**: React.js, Quill, Clerk
+- Built a real-time collaborative editor for Invictus Hackathon 2025, serving 30+ users.
+- Integrated Clerk for secure authentication, reducing errors by 40%.
+- **Achievement**: Finalist at Invictus Hackathon 2025.
+
+### [Women's Services Platform](https://github.com/InverseXenon/Astitva)
+- **Tech Stack**: React.js, OpenMap
+- Developed a safety platform with real-time location services for Syrus Hackathon 2025.
+- Delivered a prototype in 48 hours, tested by 20+ users.
+- **Achievement**: Top 8/200+ teams at Syrus Hackathon 2025.
+
+### IoT-based Air Quality Monitoring System
+- **Tech Stack**: Python, Firebase, Machine Learning, IoT
+- Designed an IoT system with ML for air quality prediction (85% accuracy) at Panache Digilife.
+- Configured Firebase for real-time data storage, improving access efficiency by 30%.
+
+### [Deepfake Detection Model](https://github.com/InverseXenon/deepfake-detector-frontend)
+- **Tech Stack**: Python, CNN
+- Built a CNN-based model achieving 82% accuracy in detecting deepfakes.
+
+---
+
+## 🏆 Achievements
+
+- **Hack-AI-Thon 2025**: Top 5/50 teams for ONION ERP AI with RAG and React.js.
+- **Syrus Hackathon 2025**: Top 8/200+ teams for women's safety platform.
+- **Awakening the Scientist 2022**: Winner among 100+ for innovative project.
+- **Certifications**: AWS Academy (ML Foundations), Google Cloud Skills Boost (Cloud & GenAI), NVIDIA (Deep Learning).
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React.js with Next.js and TypeScript
+- System Design for scalable applications
+- IoT integration with AWS IoT Core
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:piyushpatil1741@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/InverseXenon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+💬 **Ask me about**: React.js, Machine Learning, IoT, or my hackathon experiences!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InverseXenon&show_icons=true&theme=radical" alt="Piyush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InverseXenon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
