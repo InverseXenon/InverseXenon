@@ -2,9 +2,7 @@
 
 I'm a third-year B.Tech student in **AI & Data Science** at VESIT, Mumbai (CGPA: 8.61), passionate about **web development**, **machine learning**, and **IoT**. I love building innovative solutions that blend technology with real-world impact. Currently exploring **React.js**, **AI-driven applications**, and **cloud technologies**.
 
-🌟 **Fun Fact**: I led a team to develop an AI-powered ERP system in just 36 hours at Hack-AI-Thon 2025, securing a top 5 spot among 50 teams!
 
----
 
 ## 🛠️ Skills
 
